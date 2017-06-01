@@ -1,3 +1,9 @@
+### 2.0.1
+
+  * Update qs to 6.4.0 ([Prototype overwriting vulnerability](https://snyk.io/vuln/npm:qs:20170213))
+  * Update multiparty to 4.1.3
+  * Update type-is to 1.6.15
+
 ### 2.0.0
 
   * Requires Node.js >= 0.10.0
